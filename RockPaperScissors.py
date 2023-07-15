@@ -47,6 +47,3 @@ else:
         print("You Lose")
     else:
         print("You Win! !")
-    
-    # elif computer_choice == 2 and user_choice == 0:
-    #     print ("You Win! !")
